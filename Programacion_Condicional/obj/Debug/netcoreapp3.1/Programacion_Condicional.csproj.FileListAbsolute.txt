@@ -1,0 +1,13 @@
+C:\Users\UserGPC\source\repos\Programacion_Condicional\Programacion_Condicional\bin\Debug\netcoreapp3.1\Programacion_Condicional.exe
+C:\Users\UserGPC\source\repos\Programacion_Condicional\Programacion_Condicional\bin\Debug\netcoreapp3.1\Programacion_Condicional.deps.json
+C:\Users\UserGPC\source\repos\Programacion_Condicional\Programacion_Condicional\bin\Debug\netcoreapp3.1\Programacion_Condicional.runtimeconfig.json
+C:\Users\UserGPC\source\repos\Programacion_Condicional\Programacion_Condicional\bin\Debug\netcoreapp3.1\Programacion_Condicional.runtimeconfig.dev.json
+C:\Users\UserGPC\source\repos\Programacion_Condicional\Programacion_Condicional\bin\Debug\netcoreapp3.1\Programacion_Condicional.dll
+C:\Users\UserGPC\source\repos\Programacion_Condicional\Programacion_Condicional\bin\Debug\netcoreapp3.1\Programacion_Condicional.pdb
+C:\Users\UserGPC\source\repos\Programacion_Condicional\Programacion_Condicional\obj\Debug\netcoreapp3.1\Programacion_Condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserGPC\source\repos\Programacion_Condicional\Programacion_Condicional\obj\Debug\netcoreapp3.1\Programacion_Condicional.AssemblyInfoInputs.cache
+C:\Users\UserGPC\source\repos\Programacion_Condicional\Programacion_Condicional\obj\Debug\netcoreapp3.1\Programacion_Condicional.AssemblyInfo.cs
+C:\Users\UserGPC\source\repos\Programacion_Condicional\Programacion_Condicional\obj\Debug\netcoreapp3.1\Programacion_Condicional.csproj.CoreCompileInputs.cache
+C:\Users\UserGPC\source\repos\Programacion_Condicional\Programacion_Condicional\obj\Debug\netcoreapp3.1\Programacion_Condicional.dll
+C:\Users\UserGPC\source\repos\Programacion_Condicional\Programacion_Condicional\obj\Debug\netcoreapp3.1\Programacion_Condicional.pdb
+C:\Users\UserGPC\source\repos\Programacion_Condicional\Programacion_Condicional\obj\Debug\netcoreapp3.1\Programacion_Condicional.genruntimeconfig.cache
