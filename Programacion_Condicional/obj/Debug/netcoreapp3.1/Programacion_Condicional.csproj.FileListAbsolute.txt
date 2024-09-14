@@ -11,3 +11,4 @@ C:\Users\UserGPC\source\repos\Programacion_Condicional\Programacion_Condicional\
 C:\Users\UserGPC\source\repos\Programacion_Condicional\Programacion_Condicional\obj\Debug\netcoreapp3.1\Programacion_Condicional.dll
 C:\Users\UserGPC\source\repos\Programacion_Condicional\Programacion_Condicional\obj\Debug\netcoreapp3.1\Programacion_Condicional.pdb
 C:\Users\UserGPC\source\repos\Programacion_Condicional\Programacion_Condicional\obj\Debug\netcoreapp3.1\Programacion_Condicional.genruntimeconfig.cache
+C:\Users\UserGPC\source\repos\Programacion_Condicional\Programacion_Condicional\obj\Debug\netcoreapp3.1\Programacion_Condicional.sourcelink.json
