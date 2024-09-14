@@ -26,3 +26,6 @@ Este proyecto agrupa tres programas bajo un menú principal, cada uno con su pro
       	Fuera de Nivel: si es inferior al 50%.
   	
     o	Abordaje: La aplicación utiliza una fórmula para calcular el porcentaje de aciertos y luego ejecuta una serie de condiciones que asignan el nivel adecuado según el resultado.
+
+
+La aplicación fue implementada de manera que cada funcionalidad está organizada en una clase separada, lo que permite la reutilización del código y un manejo modular. Todo el programa se encuentra bajo un menú principal que permite al usuario elegir la funcionalidad que desea ejecutar, brindando una solución organizada y fácil de usar para resolver los problemas planteados.
